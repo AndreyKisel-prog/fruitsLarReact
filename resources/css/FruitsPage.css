@@ -1,0 +1,14 @@
+.Toast {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    min-height: 150px;
+    width: 350px;
+    display: none;
+}
+
+.Toast.visible {
+    display: block;
+}
+
+
